@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    overflow: hidden;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.principal {
+    background-color: black;
+    width: 700px;
+    height: 400px;
+    color: rgb(212, 212, 212);
+    border: 5px solid wheat;
+    border-radius: 100px;
+    position: absolute;
+    left: 25%;
+    top: 23%;
+}
+.roxa {
+    width: 200px;
+    height: 80px;
+    background-color: purple;
+    position: absolute;
+    top: 160px;
+    left: 250px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border:2px solid rgb(74, 7, 138);
+    border-radius: 20px;
+}
